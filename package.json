@@ -1,0 +1,17 @@
+{
+  "name": "parseproject",
+  "version": "1.0.0",
+  "description": "Parse Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wynne",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.1",
+    "csv-parse": "^5.4.0",
+    "csvtoflatfile": "^2.0.0"
+  }
+}
